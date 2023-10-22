@@ -1,4 +1,4 @@
-# arduinoTP2
+# Aguirre-Javier-SegundaParteArduino
 examenSPD contador con numeros primos
 # integrantes
 Aguirre-Javier
